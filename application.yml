@@ -12,3 +12,4 @@ spring:
   profiles: test
   application:
     name: springcloud-config-test
+#一定保存为UTF-8
